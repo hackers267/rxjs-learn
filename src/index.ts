@@ -1,1 +1,1 @@
-import "./combineLatest/3";
+import "./concat/2";
