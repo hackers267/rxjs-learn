@@ -1,1 +1,1 @@
-import "./concatAll/3";
+import "./merge";

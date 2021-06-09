@@ -1,4 +1,4 @@
-import { interval } from "rxjs";
+import { forkJoin, interval } from "rxjs";
 import { concatAll, map } from "rxjs/operators";
 
 const samplePromise = (val: number) => new Promise((resolve) => resolve(val));
