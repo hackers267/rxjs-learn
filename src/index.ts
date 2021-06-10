@@ -1,1 +1,1 @@
-import "./pairwise";
+import "./race/2";
