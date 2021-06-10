@@ -1,1 +1,1 @@
-import "./timer/2";
+import "./catchError";
