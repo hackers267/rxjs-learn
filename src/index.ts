@@ -1,1 +1,1 @@
-import "./mergeAll";
+import "./pairwise";
