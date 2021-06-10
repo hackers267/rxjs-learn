@@ -1,1 +1,1 @@
-import "./every/2";
+import "./from/4";
