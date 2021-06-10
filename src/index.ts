@@ -1,1 +1,1 @@
-import "./withLatestFrom/2";
+import "./zip/2";
