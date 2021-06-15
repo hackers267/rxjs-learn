@@ -1,1 +1,1 @@
-import "./buffer";
+import "./bufferCount/2";
