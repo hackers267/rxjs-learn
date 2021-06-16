@@ -1,1 +1,1 @@
-import "./groupBy";
+import "./map/2";
