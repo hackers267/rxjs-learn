@@ -1,1 +1,1 @@
-import "./map/2";
+import "./mapTo/1";
