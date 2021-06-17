@@ -1,1 +1,1 @@
-import "./switchMap/2";
+import "./window";
