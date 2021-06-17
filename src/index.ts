@@ -1,1 +1,1 @@
-import "./partition/2";
+import "./reduce";
