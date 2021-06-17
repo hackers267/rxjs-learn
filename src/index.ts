@@ -1,1 +1,1 @@
-import "./reduce";
+import "./scan/3";
