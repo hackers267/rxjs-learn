@@ -1,1 +1,1 @@
-import "./scan/3";
+import "./switchMap/2";
