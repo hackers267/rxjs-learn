@@ -1,5 +1,6 @@
-import { ObservableNotification, of } from "rxjs";
+import { of } from "rxjs";
 import { dematerialize } from "rxjs/operators";
+import type { ObservableNotification } from "rxjs";
 
 const notifA: ObservableNotification<string> = { kind: "N", value: "A" };
 const notifB: ObservableNotification<string> = { kind: "N", value: "B" };
