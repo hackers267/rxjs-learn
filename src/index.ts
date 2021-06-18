@@ -1,1 +1,1 @@
-import "./find";
+import "./findIndex";
