@@ -1,1 +1,1 @@
-import "./delay";
+import "./delayWhen";
