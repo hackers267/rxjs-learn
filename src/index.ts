@@ -1,1 +1,1 @@
-import "./timestamp";
+import "./timeout/2";
