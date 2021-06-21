@@ -1,1 +1,1 @@
-import "./timeInterval";
+import "./timestamp";
