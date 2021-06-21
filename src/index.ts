@@ -1,1 +1,1 @@
-import "./timeout/2";
+import "./toArray";
